@@ -4,7 +4,7 @@ Upgrade a package only if it is installed otherwise do nothing.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-upgrade/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-upgrade/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-upgrade/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-upgrade)|[![quality](https://img.shields.io/ansible/quality/47894)](https://galaxy.ansible.com/buluma/upgrade)|[![downloads](https://img.shields.io/ansible/role/d/47894)](https://galaxy.ansible.com/buluma/upgrade)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-upgrade.svg)](https://github.com/buluma/ansible-role-upgrade/releases/)|
+|[![github](https://github.com/buluma/ansible-role-upgrade/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-upgrade/actions)|[![pipeline status](https://gitlab.com/buluma/ansible-role-upgrade/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-upgrade/-/commits/main)|[![quality](https://img.shields.io/ansible/quality/47894)](https://galaxy.ansible.com/buluma/upgrade)|[![downloads](https://img.shields.io/ansible/role/d/47894)](https://galaxy.ansible.com/buluma/upgrade)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-upgrade.svg)](https://github.com/buluma/ansible-role-upgrade/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
