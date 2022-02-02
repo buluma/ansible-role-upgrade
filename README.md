@@ -62,6 +62,7 @@ The following roles are used to prepare a system. You can prepare your system in
 ## [Context](#context)
 
 Here is an overview of related roles:
+
 ![dependencies](https://raw.githubusercontent.com/buluma/ansible-role-upgrade/png/requirements.png "Dependencies")
 
 ## [Compatibility](#compatibility)
