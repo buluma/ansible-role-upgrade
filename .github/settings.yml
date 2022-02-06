@@ -1,0 +1,8 @@
+---
+#
+# Ansible managed
+#
+repository:
+  description: Upgrade a package only if it is installed otherwise do nothing.
+  homepage: https://buluma.github.io/
+  topics: upgrade, ansible, molecule, tox, playbook, hacktoberfest
