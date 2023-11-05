@@ -2,9 +2,9 @@
 
 Upgrade a package only if it is installed otherwise do nothing.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-upgrade/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-upgrade/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-upgrade/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-upgrade)|[![quality](https://img.shields.io/ansible/quality/57817)](https://galaxy.ansible.com/buluma/upgrade)|[![downloads](https://img.shields.io/ansible/role/d/57817)](https://galaxy.ansible.com/buluma/upgrade)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-upgrade.svg)](https://github.com/buluma/ansible-role-upgrade/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-upgrade.svg)](https://github.com/buluma/ansible-role-upgrade/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-upgrade.svg)](https://github.com/buluma/ansible-role-upgrade/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-upgrade/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-upgrade/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-upgrade/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-upgrade)|[![downloads](https://img.shields.io/ansible/role/d/4873)](https://galaxy.ansible.com/buluma/upgrade)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-upgrade.svg)](https://github.com/buluma/ansible-role-upgrade/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-upgrade.svg)](https://github.com/buluma/ansible-role-upgrade/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-upgrade.svg)](https://github.com/buluma/ansible-role-upgrade/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
