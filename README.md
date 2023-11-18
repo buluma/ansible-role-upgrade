@@ -1,4 +1,4 @@
-# [upgrade](#upgrade)
+# [Ansible role upgrade](#upgrade)
 
 Upgrade a package only if it is installed otherwise do nothing.
 
