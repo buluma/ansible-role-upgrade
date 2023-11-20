@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-upgrade/tree/HEAD)
+## [1.0.8](https://github.com/buluma/ansible-role-upgrade/tree/1.0.8) (2023-11-20)
 
-[Full Changelog](https://github.com/buluma/ansible-role-upgrade/compare/1.0.7...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-upgrade/compare/1.0.7...1.0.8)
 
 **Closed issues:**
 
