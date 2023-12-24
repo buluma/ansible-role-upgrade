@@ -1,10 +1,10 @@
-# [Ansible role upgrade](#upgrade)
+# Ansible role [upgrade](https://galaxy.ansible.com/ui/standalone/roles/buluma/upgrade/documentation)
 
 Upgrade a package only if it is installed otherwise do nothing.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-upgrade/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-upgrade/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-upgrade.svg)](https://github.com/buluma/ansible-role-upgrade/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-upgrade.svg)](https://github.com/buluma/ansible-role-upgrade/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-upgrade.svg)](https://github.com/buluma/ansible-role-upgrade/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-upgrade/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-upgrade/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-upgrade.svg)](https://github.com/buluma/ansible-role-upgrade/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-upgrade.svg)](https://github.com/buluma/ansible-role-upgrade/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-upgrade.svg)](https://github.com/buluma/ansible-role-upgrade/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/upgrade)](https://galaxy.ansible.com/ui/standalone/roles/buluma/upgrade/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -100,13 +100,11 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [License](#license)
 
-[Apache-2.0](https://github.com/buluma/ansible-role-upgrade/blob/master/LICENSE).
+[Apache-2.0](https://github.com/buluma/ansible-role-upgrade/blob/master/LICENSE)
 
 ## [Author Information](#author-information)
 
-[buluma](https://buluma.github.io/)
+[Shadow Walker](https://buluma.github.io/)
 
-
-### [Special Thanks](#special-thanks)
 
 Template inspired by [Robert de Bock](https://github.com/robertdebock)
