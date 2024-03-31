@@ -5,7 +5,9 @@
 [Full Changelog](https://github.com/buluma/ansible-role-upgrade/compare/1.2.0...HEAD)
 
 **Merged pull requests:**
+
 - Bump dependabot/fetch-metadata from 1 to 2 [\#25](https://github.com/buluma/ansible-role-upgrade/pull/25) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump release-drafter/release-drafter from 5 to 6 [\#24](https://github.com/buluma/ansible-role-upgrade/pull/24) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#22](https://github.com/buluma/ansible-role-upgrade/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#21](https://github.com/buluma/ansible-role-upgrade/pull/21) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#20](https://github.com/buluma/ansible-role-upgrade/pull/20) ([dependabot[bot]](https://github.com/apps/dependabot))
