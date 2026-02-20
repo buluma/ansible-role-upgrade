@@ -1,5 +1,4 @@
 ---
-
 - name: assert | Test upgrade_packages
   ansible.builtin.assert:
     that:
