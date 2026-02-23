@@ -1,14 +1,14 @@
 ---
-  - name: Verify
-    hosts: all
-    become: true
-    gather_facts: false
+- name: Verify
+  hosts: all
+  become: true
+  gather_facts: false
 
-    tasks:
-      - name: Check if connection still works
-        ansible.builtin.ping:
+  tasks:
+  - name: Check if connection still works
+    ansible.builtin.ping:
 
-    roles:
-      - role: buluma.upgrade
-        upgrade_packages:
-          - bash
+  roles:
+  - role: buluma.upgrade
+    upgrade_packages:
+    - bash
