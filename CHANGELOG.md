@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-upgrade/tree/HEAD)
+## [26.5.5](https://github.com/buluma/ansible-role-upgrade/tree/26.5.5) (2026-04-03)
 
-[Full Changelog](https://github.com/buluma/ansible-role-upgrade/compare/24.3.31...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-upgrade/compare/24.3.31...26.5.5)
 
 **Closed issues:**
 
